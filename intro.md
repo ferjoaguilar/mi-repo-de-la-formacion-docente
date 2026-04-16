@@ -9,3 +9,8 @@ desde hace ya 8 años, me gusta programar y crear cosas nuevas.
 - Me gusta programar
 - Me gusta aprender cosas nuevas
 - Me gusta salir a caminar
+
+## Un poco sobre los viajes que realizo
+- Metrocentro
+- Galerias
+- Ir al trabajo

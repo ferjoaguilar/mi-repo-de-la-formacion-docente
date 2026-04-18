@@ -14,3 +14,8 @@ desde hace ya 8 años, me gusta programar y crear cosas nuevas.
 - Metrocentro
 - Galerias
 - Ir al trabajo
+
+## Tareas que he realizado en la formacion
+- Tareas sobre IA
+- Tareas sobre n8n
+- Tareas sobre Git

@@ -19,3 +19,5 @@ desde hace ya 8 años, me gusta programar y crear cosas nuevas.
 - Tareas sobre IA
 - Tareas sobre n8n
 - Tareas sobre Git
+
+veamos esta adicion de luis pereira

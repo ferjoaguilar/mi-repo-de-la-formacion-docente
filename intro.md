@@ -15,7 +15,7 @@ desde hace ya 8 años, me gusta programar y crear cosas nuevas.
 - Galerias
 - Ir al trabajo
 
-## Tareas que he realizado en la formacion
-- Tareas sobre IA
-- Tareas sobre n8n
-- Tareas sobre Git
+## cambios en el archivo - Roberto Garcia
+ - Agregue un poco de mi autobiografia
+- Agregue un poco sobre mis pasatiempos
+- Agregue un poco sobre los viajes que realizo

@@ -15,7 +15,7 @@ desde hace ya 8 años, me gusta programar y crear cosas nuevas.
 - Galerias
 - Ir al trabajo
 
-## camowmowmdowdmwobios en el archivo - Roberto Garcia
+## camowmowmdowdmwobios en el archivo - Fernando Aguilar
  - Agregue un poco de mi autobiografia
 - Agregue un poco sobre mis pasatiempos
 - Agregue un poco sobre los viajes que realizo

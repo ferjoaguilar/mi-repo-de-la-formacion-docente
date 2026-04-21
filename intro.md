@@ -21,3 +21,8 @@ desde hace ya 8 años, me gusta programar y crear cosas nuevas.
 - Tareas sobre Git
 
 veamos esta adicion de luis pereira
+
+## camowmowmdowdmwobios en el archivo - Roberto Garcia
+ - Agregue un poco de mi autobiografia
+- Agregue un poco sobre mis pasatiempos
+- Agregue un poco sobre los viajes que realizo
